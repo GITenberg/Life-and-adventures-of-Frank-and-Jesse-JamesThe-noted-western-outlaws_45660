@@ -1,0 +1,28 @@
+_repo: Life-and-adventures-of-Frank-and-Jesse-JamesThe-noted-western-outlaws_45660
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45660-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dacus, J. A. (Joseph A.)
+    alias: Dacus, Joseph A.
+    gutenberg_agent_id: '43399'
+    url: http://www.gutenberg.org/2009/agents/43399
+description: ''
+gutenberg_issued: '2014-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45660'
+  lccn: '11027015'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'James, Frank, 1844-1915'
+- !lcsh 'Brigands and robbers'
+- !lcc 'F590.3'
+- !lcsh 'James, Jesse, 1847-1882'
+title: Life and adventures of Frank and Jesse James, the noted western outlaws
+url: http://www.gutenberg.org/ebooks/45660
